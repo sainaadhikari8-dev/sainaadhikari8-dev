@@ -1,4 +1,34 @@
+# Hieee👋,
+ I'm Saina Das Adhikari 😸
 
+B.Tech Student | AI Enthusiast
+✨ Designing Experiences • Building Intelligence • Learning Every Day ✨ 
+
+##          📩 Reach me at
+✉️ saina.adhikari8@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/saina-adhikari-657091381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+##           🚀 About Me
+🎓 B.Tech Cyber Security  student (GGSIPU)
+ exploring the world of AI & Technology
+
+##        🎨 Passionate about 
+🌀 UI/UX Designing (clean, modern & user-first designs) and backend 
+🤖 Working on hackathon projects most of the time
+💡 Love combining design + technology to build meaningful products
+
+##         🛠️ What I'm Doing
+🔭 Building AI in a Pendrive Model (Offline Assistant) with our team
+🌱 Advancing in Python , Database management(SQL) and AI basics 
+🎯 Improving my UI/UX skills (Figma, user flows, prototyping)
+⚡ Exploring how design impacts real-world tech products
+
+##            🌟 Highlights
+🔥Passionate about hackathons (SIH finalists, won 3rd price in manthan kriti, working on foss hack currently)
+📝 loves to code manually 
+🚀 Actively working on real-world AI project
+🧠 Growing consistently in both design + development
+(You can already tell how much i love designing🙂‍↕️🙏)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sainaa_adhikari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saina-adhikari-657091381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saina.adhikari8@gmail.com) 
 
